@@ -7,13 +7,8 @@
 
 ![Screenshot (238)](https://github.com/jainAyush20/Customer_Churn_Analysis/assets/99781764/eab9ffa6-24ce-4719-9470-87a0b6fe6511)
 
-##Table of Contents
-Project Overview
-Data Source
-Tools Used
-Data Preparation
-Insights
-Recommendations
+
+
 Project Overview
 The Telecommunications Retention Manager is actively seeking a comprehensive solution to elevate customer retention efforts and mitigate customer churn.
 Interpreted and gained insight into customer retention and how many of them joined, as well as how they are distributed on various parameters.
